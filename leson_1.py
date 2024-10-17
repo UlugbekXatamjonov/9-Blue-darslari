@@ -13,6 +13,8 @@ print(b[2:])
 b = "Hello, World!"
 print(b[-5:-2])
 
+print("Hiiiiiiiiiiiiiiiiiii")
+
 """ replace() """
 a = "Hello, World! olma olicha olmahon "
 print(a.replace("o", "-", 2))
